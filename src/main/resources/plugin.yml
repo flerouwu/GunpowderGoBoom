@@ -1,0 +1,7 @@
+name: GunpowderFurnaceRecipe
+main: dev.flero.gunpowderfurnacerecipe.GunpowderFurnaceRecipePlugin
+version: 1.0
+api-version: 1.20
+load: POSTWORLD
+author: Flero <flero@flero.dev>
+description: Smelt some gunpowder, I dare you.

@@ -1,0 +1,3 @@
+explosion:
+  power: 10 # The power of the explosion. Regular TNT is 4
+  fire: false # Whether fire should be generated with the explosion.
